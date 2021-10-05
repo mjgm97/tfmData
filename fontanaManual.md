@@ -24,7 +24,7 @@ several papers from the same source (i.e., conference, journal, book...)
 we can search within “Source title” instead and get a set of results at
 the same time.
 
-![image](images/anex1.png) [fig:anex1]
+![image](anex1.png) [fig:anex1]
 
 Once we have located our papers on Scopus, we have to download their
 metadata. To export the metadata as a CSV file, we have to click on “CSV
@@ -35,7 +35,7 @@ count”, “Source & document type”, “Abstract”, and “Author keywords�
 you export more fields, the framework will filter them and only show the
 fields needed.
 
-![image](images/anex2.png) [fig:anex2]
+![image](anex2.png) [fig:anex2]
 
 ### Get metadata from Web of Science
 
@@ -48,14 +48,14 @@ papers from the same source (i.e., conference, journal, book...) we can
 search within “Publication Titles” instead and get a set of results at
 the same time.
 
-![image](images/anex3.png) [fig:anex3]
+![image](anex3.png) [fig:anex3]
 
 Once we have located our papers on Web of Science, we have to download
 their metadata. To export the metadata as a XLS file, we have to click
 on “Export” -\> “Excel”, and then select the full record to be exported,
 as shown in Figure [fig:anex4].
 
-![image](images/anex4.png) [fig:anex4]
+![image](anex4.png) [fig:anex4]
 
 Paths and variables
 -------------------
@@ -80,15 +80,15 @@ the framework will use every file that matches the format expected (for
 example PDF files for full-text papers), we recommend to use separate
 folders for each path.
 
-![image](images/anex5.png) [fig:anex5]
+![image](anex5.png) [fig:anex5]
 
 And that is all! Now "Fontana" is ready to be used, and the only thing
 you need to do is to navigate through the notebook and observe the
 results produced. We can see some examples of the framework working live
 in Figure [fig:anex67].
 
-<span>0.49</span> ![image](images/anex6.png) [subfig:anex6]
+<span>0.49</span> ![image](anex6.png) [subfig:anex6]
 
-<span>0.48</span> ![image](images/anex7.png) [subfig:anex7]
+<span>0.48</span> ![image](anex7.png) [subfig:anex7]
 
 [fig:anex67]
